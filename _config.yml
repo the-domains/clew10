@@ -1,0 +1,28 @@
+name: CLew10
+favicon: null
+layout_spectrum: 0.19311658875085413
+typography_spectrum: 0.9218826161231846
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4757140539586544
+  lightness: 0.8694745907559991
+  saturation: 0.7945798551663756
+  rhythmicContrast: 0.43690057354979217
+purpose: []
